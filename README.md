@@ -2,7 +2,7 @@
 
 > My brilliant Nuxt.js project
 
-## Build Setup
+## Build Setups
 
 ``` bash
 # install dependencies
